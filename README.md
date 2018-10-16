@@ -1,5 +1,5 @@
-old high school unity game
+Old high school unity game
 
-please feel free to cringe at my amazing code
+Please feel free to cringe at my amazing code
 
-collab with philippe
+Collaboration with Philippe and Justin
